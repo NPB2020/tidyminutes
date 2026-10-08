@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://npb2020.github.io/tinyminutes/sitemap.xml
